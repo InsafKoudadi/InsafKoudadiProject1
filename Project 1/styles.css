@@ -1,0 +1,45 @@
+
+
+
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.headerStyle {
+    background-color: #ac8052;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+.navigatieUl {
+    list-style: none;
+    padding: 0;
+}
+.navigatieUlLi {
+    display: inline;
+    margin: 0 15px;
+}
+.navigatieUlLi a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+.image img {
+max-width: 150px;
+height: auto;
+border-radius: 10px;
+object-fit: cover;
+text-align: right;
+}
+.ervaringBalk, .hobbyBalk{
+    background-color: #ccaf97;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+.portfolioTabel{
+    background-color: #ac8052;
+    padding: 20px;
+    border: 1px solid;
+    padding: 10px;
+    text-align: left;
+}
